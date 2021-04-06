@@ -1,2 +1,2 @@
-# BiiMLab
+# BiiMLabRustDetection
 Repo for BiiMLab projects
